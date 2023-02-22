@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{432:function(t,n,s){"use strict";s.r(n);var o=s(2),i=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("ol",[t("li",[this._v("diff算法的目的： 让页面dom以最小的代价来进行更新，通过diff算法进行精细化对比，实现最小量的更新")])])])}),[],!1,null,null,null);n.default=i.exports}}]);
